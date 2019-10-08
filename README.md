@@ -11,3 +11,10 @@
 7. Bash
 8. Ruby
 9. MindFuck
+
+### Server Side Scripting languages
+- ASP.NET (*.aspx)
+- ASP.NET MVC (*.cshtml)
+- ColdFusion Markup Language (*.cfm)
+- Go (*.go)
+- Google Apps Script (*.gs)
